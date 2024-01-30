@@ -1,4 +1,4 @@
-var network = new WebSocket("wss://wss.adthoughtsglobal.repl.co");
+var network = new WebSocket("https://jr2nsw-8080.csb.app/");
 var app = document.getElementById("app");
 var cgrp = "", overl = gid("overlay");
 var whom;
